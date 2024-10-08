@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    font-size: 40px;
+    text-shadow: 0 0 10px black;
+    background-color: #edf2ef;
+    background-image: url(https://www.bankrate.com/2020/08/01170557/How-to-save-money-on-groceries.jpeg?auto=webp&optimize=high&crop=16:9&width=912;)
+}
+.grocerystore {
+    display: inline-block;
+    background-color: rgb(142, 197, 16);
+    margin: 5px;
+    width: 45%;
+    border-radius: 10px;
+    padding: 5px;
+    text-indent: 20px;
+
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+
